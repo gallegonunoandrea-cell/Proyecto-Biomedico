@@ -13,7 +13,7 @@ DiabetesPedigreeFunction: Para expresar el porcentaje de diabetes
 Age: Para expresar la edad del paciente 
 Outcome: Para expresar el resultado final, 1 significa Sí y 0 significa No
 
-BASE DE DATOS 2:
+BASE DE DATOS 2: lungcancer
 Descripción:
 Esta base de datos esta conformada por 16 columnas y 309 filas, cada columna representa:
 Gender: M (masculino), F (femenino)
