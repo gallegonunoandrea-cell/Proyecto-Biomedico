@@ -1,0 +1,39 @@
+BASES DE DATOS:
+
+BASE DE DATOS 1: Diabetes
+Descripción: 
+Esta base de datos esta conformada por 9 columnas y 768 filas, cada columna representa:
+Embarazos: Para expresar el número de embarazos
+Glucose: Para expresar el nivel de glucosa en la sangre
+BloodPressure: Para expresar la medición de la presión arterial
+SkinThickness: Para expresar el grosor de la piel
+Insulin: Para expresar el nivel de insulina en la sangre
+BMI: Para expresar el índice de masa corporal
+DiabetesPedigreeFunction: Para expresar el porcentaje de diabetes
+Age: Para expresar la edad del paciente 
+Outcome: Para expresar el resultado final, 1 significa Sí y 0 significa No
+
+BASE DE DATOS 2:
+Descripción:
+Esta base de datos esta conformada por 16 columnas y 309 filas, cada columna representa:
+Gender: M (masculino), F (femenino)
+Age: Para expresar la edad del paciente
+Smoking: Para expresar si el paciente fuma, 2 significa Sí y 1 significa No
+Yellow_fingers: Para expresar si el paciente presenta esta patología, 2 significa Sí y 1 significa No
+Anxiety: Para expresar si el paciente presenta este síntoma, 2 significa Sí y 1 significa No
+Peer_pressure: Para expresar si el paciente presenta este síntoma, 2 significa Sí y 1 significa No
+chronic_disease: Para expresar si el paciente presenta esta patología, 2 significa Sí y 1 significa No
+Fatigue: Para expresar si el paciente presenta este síntoma, 2 significa Sí y 1 significa No
+Allergy: Para expresar si el paciente presenta este síntoma, 2 significa Sí y 1 significa No
+Wheezing: Para expresar si el paciente presenta este síntoma, 2 significa Sí y 1 significa No
+Alcohol_consuming: Para expresar si el paciente consume alcohol, 2 significa Sí y 1 significa No
+Coughing: Para expresar si el paciente presenta este síntoma, 2 significa Sí y 1 significa No
+Shortness_of_breath: Para expresar si el paciente presenta este síntoma, 2 significa Sí y 1 significa No
+Swallowing_difficulty: Para expresar si el paciente presenta este síntoma, 2 significa Sí y 1 significa No
+Chest_pain: Para expresar si el paciente presenta este síntoma, 2 significa Sí y 1 significa No
+Lung_cancer: Para expresar si el paciente tiene cáncer, Yes o No
+
+
+
+
+
