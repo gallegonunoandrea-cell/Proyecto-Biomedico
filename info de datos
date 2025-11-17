@@ -1,0 +1,36 @@
+BASE DE DATOS CANCER PATIENT: 
+Este conjunto de datos contiene información sobre pacientes con cáncer de pulmón, 
+incluyendo su edad, género, exposición a la contaminación del aire, consumo de alcohol, 
+alergia al polvo, riesgos ocupacionales, riesgo genético, enfermedades pulmonares crónicas, 
+dieta equilibrada, obesidad, estado de fumador, estado de fumador pasivo, dolor en el pecho, 
+tos con sangre, niveles de fatiga, pérdida de peso, dificultad para respirar, sibilancias, 
+dificultad para tragar, acropaquia de las uñas, resfriados frecuentes, tos seca y ronquidos. 
+Al analizar estos datos, podemos obtener información sobre las causas del cáncer de pulmón y la mejor manera de tratarlo.
+
+Edad: La edad del paciente. (Numérico)
+Género: El género del paciente. (Categórico)
+Contaminación del aire: El nivel de exposición a la contaminación del aire del paciente. (Categórico)
+Consumo de alcohol: El nivel de consumo de alcohol del paciente. (Categórico)
+Alergia al polvo: El nivel de alergia al polvo del paciente. (Categórico)
+Riesgos ocupacionales: El nivel de riesgos ocupacionales del paciente. (Categórico)
+
+BASE DE DATOS HEART FAILURE:
+
+Esta tabla contiene datos médicos y de estilo de vida de pacientes, recopilados para el estudio y predicción de la insuficiencia cardíaca (fallo cardíaco). Es un conjunto de datos común en el ámbito de la ciencia de datos y el aprendizaje automático para tareas de clasificación y supervivencia.
+ Columnas
+age: Edad del paciente.
+anaemia: Indica si el paciente tiene anemia (1=Sí, 0=No).
+Creatinine: Nivel de la enzima CPK en la sangre, una medida de daño muscular.
+diabetes: Indica si el paciente tiene diabetes (1=Sí, 0=No).
+Ejection fraction: Porcentaje de sangre que sale del corazón en cada contracción, una medida clave de la función cardíaca.
+High blood pressure: Indica si el paciente tiene presión arterial alta (1=Sí, 0=No).
+platelets: Recuento de plaquetas en la sangre (kiloplaquetas/mL).
+Serum creatinine: Nivel de creatinina sérica en la sangre, un indicador de la función renal.
+Serum sodium: Nivel de sodio sérico en la sangre.
+sex: Género del paciente (generalmente 1=Hombre, 0=Mujer).
+smoking: Indica si el paciente es fumador (1=Sí, 0=No).
+time: Período de seguimiento (en días) hasta el evento o la censura (fin del estudio).
+DEATH\_EVENT: La variable objetivo (target). Indica si el paciente falleció durante el período de seguimiento (1=Sí, 0=No).
+
+Propósito del Conjunto de Datos
+El objetivo principal al trabajar con estos datos es desarrollar un modelo de aprendizaje automático que pueda predecir si un paciente con insuficiencia cardíaca tiene un alto riesgo de mortalidad utilizando las otras características médicas y demográficas como entradas.
